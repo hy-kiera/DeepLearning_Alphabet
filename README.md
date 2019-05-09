@@ -11,6 +11,7 @@ git clone https://github.com/Jaram2019/DeepLearning_Alphabet
 
 2. Activate python virtual environment
 ```
+cd DeepLearning_Alphabet
 sudo pip install virtualenv
 virtualenv -p python3 .env  # Create a virtual environment (python3)
 source .env/bin/activate  # Activate the virtual environment
