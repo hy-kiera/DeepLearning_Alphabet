@@ -31,8 +31,11 @@ deactivate  # Exit the virtual environment
 ```
 virtualenv>=16.3.0
 python>=3.6
-pandas>=0.23.4
-numpy>=1.15.1
+pandas==0.23.4
+numpy==1.15.1
+pandas==0.23.4
+numpy==1.15.1
+matplotlib==2.2.3
 tensorflow>=1.13.0rc (build for CPU-only)
 tensorflow-gpu (build with GPU support)
 ```
