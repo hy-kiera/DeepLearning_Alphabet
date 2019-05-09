@@ -1,2 +1,2 @@
 # DeepLearning_Alphabet
-Jaram Deeplearning Study - Recognition of Handwritten Alphabet.
+Jaram DeepLearning Study - Recognition of Handwritten Alphabet.
